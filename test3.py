@@ -23,4 +23,4 @@ to_do_list2=other_events+grocery_list
 print(len(to_do_list2))
 print(max(to_do_list2))
 print(min(to_do_list2))
-print(to_do_list2)
+print(to_do_list)
