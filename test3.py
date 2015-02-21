@@ -24,3 +24,4 @@ print(len(to_do_list2))
 print(max(to_do_list2))
 print(min(to_do_list2))
 print(to_do_list)
+pass
