@@ -6,7 +6,7 @@ print('First Item',grocery_list[0])
 other_events=['Wash Car','Pick up Kids']
 to_do_list=[other_events,grocery_list]
 print(to_do_list)
-print([to_do_list[1][1]])
+print([to_do_list[1][1]]) # This is also a conflict!
 grocery_list.append('Onions')
 print(to_do_list)
 grocery_list.insert(1,"Pickels")
